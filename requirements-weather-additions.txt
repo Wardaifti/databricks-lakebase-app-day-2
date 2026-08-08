@@ -1,0 +1,6 @@
+# Add these to your forked repo's existing requirements.txt
+# (keep everything already there — Flask, psycopg2-binary, databricks-sdk,
+# SQLAlchemy, requests, etc. — these are the NEW additions for Day 2 weather)
+
+sentence-transformers==3.0.1
+pgvector==0.3.6
